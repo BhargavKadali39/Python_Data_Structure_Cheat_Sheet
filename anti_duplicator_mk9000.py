@@ -11,8 +11,6 @@ for i in List_1:
     
 print(List_2)
 
-# This method is a no no.
-# For beginners it's ok to learn like this but don't continue like this!
 '''
 
 # Removing Duplicates using set() and List() methods.
