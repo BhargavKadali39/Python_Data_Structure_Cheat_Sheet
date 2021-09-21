@@ -2,7 +2,7 @@
 
      Data type        Mutable    Ordered   Indexing   Duplicate
     
-     list [ ]          yes        yes       yes         yes
+     List [ ]          yes        yes       yes         yes
     
      Tuple ( )         no         yes       yes         yes
     
