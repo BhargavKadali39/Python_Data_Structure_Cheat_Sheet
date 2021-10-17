@@ -1,8 +1,14 @@
 # Python_Data_Structures_Cheat_Sheet
 
-     
-     
-Now what is the usefulness of this cheatsheet?
+Data type | Mutable|Ordered|Indexing|Duplicate
+----------|--------|-------|---------|--------
+List [ ] |  yes | yes | yes | yes 
+Tuple ( ) |  no | yes | yes | yes
+Set { } |  no | no | no | no
+Dictionary { key : value } |  yes | yes | no | no
+
+
+Now what is the whole point of creating the cheatsheet in the first place you ask!
 
 Using a little logical thinking here, anyone can crack many basic programs like removing duplicates from a list.  
 So how is it done you say!  
